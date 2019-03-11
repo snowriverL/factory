@@ -1,5 +1,9 @@
 ## 工厂模式学习
 
+> UMl类结构地址
+
+[工厂模式UML结构图](https://github.com/snowriverL/factory/tree/master/src/main/resources/uml)
+
 ### 简单工厂模式
 
     简单工厂模式（Simple Factory Pattern）是指由一个工厂对象决定创建出哪一种产品类
